@@ -100,9 +100,32 @@ hr{
     grid-column-gap: 24px;
 }
 
+.course{
+    width: 252.42px;
+    height: 295px;
+    top: 900px;
+    left: 100px;
+    border-radius: 5%;
+    box-shadow: 10px 10px 10px 10px lightgray;
+}
+
 .course .course-banner img{
-    width: 224px;
-    height: 104px;
+    width: 225px;
+    height: 105px;
+    padding-top: 14.69px;
+    padding-left: 13px;
+}
+
+.course-detail{
+    width: 224.38px;
+    height: 105.51px;
+    padding-left: 13px;
+}
+
+.course-author{
+    color: #ED6B4F;
+    font-size: 14.67px;
+    line-height: 17px;
 }
 
 .course-info{
@@ -125,9 +148,7 @@ hr{
 
 .course-duration{
     height: 29.38px;
-    width: 94.83px;
-    left: 1012.15px;
-    top: 1124.38px;
+    width: 97px;
     border-radius: 14.69px;
     background-color: #FFE4E8;
 }
@@ -135,17 +156,13 @@ hr{
 .fa-clock{
     width: 20.03px;
     height: 20.03px;
-    top: 1128.38px;
-    left: 739.95px;
     color: #ED6B4F;
 
 }
 
 .content{
     width: 57.43px;
-    height: 20.03px;
-    top: 1128.38px;
-    left: 765.4px;
+    line-height: 20.03px;
     font-size: 14.69px;
     color: #ED6B4F;
 
